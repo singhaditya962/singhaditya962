@@ -1,6 +1,6 @@
 # Hi 👋 I'm Aditya Singh
 
-💻 Full Stack Developer | React | Node.js | Flask  
+💻 Full Stack Developer
 🚀 Passionate about building scalable web applications and dashboards  
 📍 India  
 
